@@ -17,7 +17,8 @@ public class Test {
 	  System.out.println(student.hashCode());
 	  System.out.println("Abhishek");
 	  System.out.println("Yogesh");
-	  
+	  System.out.println("Kishan");
+	  System.out.println("Ramesh");
 	  
 	}
 
